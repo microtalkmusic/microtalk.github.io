@@ -1,0 +1,16 @@
+# Site settings
+title: Micro Talk
+email: post@micro-talk.studio
+url: https://micro-talk.studio
+description: "We take on the universe, groetjes Nanna en Tim."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+cover:
+  url: '/img/dune-bg.jpg'
+
+# Build settings
+markdown: kramdown
+permalink: pretty

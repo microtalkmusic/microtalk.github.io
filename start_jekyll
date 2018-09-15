@@ -1,0 +1,3 @@
+#!/bin/bash
+jekyll serve -s ~/Documents/GitHub/microtalk.github.io/
+read -p "Press Return to Close..."
