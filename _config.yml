@@ -9,7 +9,7 @@ color:
   primary-dark: '#000000'
   links: '#219ab3'
 cover:
-  url: '/img/dune-bg.jpg'
+  url: '/img/Micro-Talk-42x42-cm.jpg'
 
 # Build settings
 markdown: kramdown
